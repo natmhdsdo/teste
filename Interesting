@@ -29,6 +29,7 @@
     <main class="container">
         <h2>Meus projetos</h2>
         <div class="row">
+
             <!--Projeto 1-->
             <div class="col-md-4">
                 <div class="card" style="width: 18rem;">
@@ -39,12 +40,11 @@
                         <p class="card-text">
                             Este projeto é uma página web que apresenta uma lista dos meus jogos
                             favoritos, incluindo informações sobre os criadores, datas de lançamento e links para
-                            abaixar
-                            ou comprar Steam. A página foi criada com CSS para uma visão agradável e uso de fontes
+                            abaixar ou comprar Steam. A página foi criada com CSS para uma visão agradável e uso de fontes
                             externas do Google Fonts.
                         </p>
                         <button type="button" class="btn btn-link" data-bs-toggle="modal"
-                            data-bs-target="modal1">Confira essa experiência</button>
+                            data-bs-target="#modal1">Confira essa experiência</button>
                     </div>
                 </div>
             </div>
@@ -62,7 +62,7 @@
                         impactos e implicações sobre o tesouro (One Piece) entre os pirata e a marinha, obtendo os
                         sentimentos dos fãs com o contesto da história.
                     </p>
-                    <button type="button" class="btn btn-link" data-bs-toggle="modal" data-bs-target="modal2">Confira
+                    <button type="button" class="btn btn-link" data-bs-toggle="modal" data-bs-target="#modal2">Confira
                         essa experiência</button>
                 </div>
             </div>
@@ -80,7 +80,7 @@
                         querido por todos, os matematicos e também por aqueles que querer saber sobre tudo.
                         Um livro cheio de contas, calculos interesantes e conhecimentos, juntando a Física.
                     </p>
-                    <button type="button" class="btn btn-link" data-bs-toggle="modal" data-bs-target="modal3">Confira
+                    <button type="button" class="btn btn-link" data-bs-toggle="modal" data-bs-target="#modal3">Confira
                         essa experiência</button>
                 </div>
             </div>
@@ -88,19 +88,24 @@
     </main>
 
     <!--Modal 1-->
-    <div class="modal" tabindex="-1">
+    <div class="modal" id="#modal1" tabindex="-1">
         <div class="modal-dialog">
             <div class="modal-content">
                 <div class="modal-header">
-                    <h5 class="modal-title">Modal title</h5>
+                    <h5 class="modal-title">Minha Biblioteca: Uma Webpage Criativa</h5>
                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
                 <div class="modal-body">
-                    <p>Modal body text goes here.</p>
+                    <p> Este projeto é uma página web que apresenta uma lista dos meus jogos
+                        favoritos, incluindo informações sobre os criadores, datas de lançamento e links para
+                        abaixar ou comprar Steam. A página foi criada com CSS para uma visão agradável e uso de fontes
+                        externas do Google Fonts.</p>
+                       <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gameblast.com.br%2F2019%2F07%2Fleft-4-dead-2-dez-anos.html&psig=AOvVaw0wk9xy8wZVanLaq6zlUXtH&ust=1747594110921000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOCekfyVq40DFQAAAAAdAAAAABAE"
+                        class="card-img-top" alt="Imagem do projeto de biblioteca virtual">
                 </div>
                 <div class="modal-footer">
-                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-                    <button type="button" class="btn btn-primary">Save changes</button>
+                    <a href="">Ver projeto ao vivo</a>
+                    <a href="">Ver código do projeto</a>
                 </div>
             </div>
         </div>
