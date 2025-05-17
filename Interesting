@@ -42,16 +42,10 @@
      <footer class="container py-5">
         <h2>Entre em contato</h2>
         <div>
-            <a href=""></a>
+            <a href="https://github.com/natmhdsdo">GitHub</a>
+            <a href="mailto:00001098592669sp@al.educacao.sp.gov.br">Enviar e-mail</a>
         </div>
+        <p class="my-5 text-center">© Copyright 2024. Produzido por Marcelo_Sanji01</p>
      </footer>
-
-
-
-
-
-
-
-
  </body>
 </html>
