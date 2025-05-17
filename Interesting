@@ -28,7 +28,7 @@
             <!--Projeto 1-->
             <div class="col-md-4">
                 <div class="card" style="width: 18rem;">
-                    <img src="img/projeto-1.png" class="card-img-top" alt="Imagem do projeto de biblioteca virtual"/>
+                    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gameblast.com.br%2F2019%2F07%2Fleft-4-dead-2-dez-anos.html&psig=AOvVaw0wk9xy8wZVanLaq6zlUXtH&ust=1747594110921000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOCekfyVq40DFQAAAAAdAAAAABAE" class="card-img-top" alt="Imagem do projeto de biblioteca virtual">
                     <div class="card-body">
                         <h5 class="card-title">Minha Biblioteca: Uma Webpage Criativa</h5>
                         <p class="card-text">
@@ -37,7 +37,7 @@
                             ou comprar Steam. A página foi criada com CSS para uma visão agradável e uso de fontes
                             externas do Google Fonts.
                         </p>
-                        <button type="button" class="btn btn-link" data-bs-toggle="modal" data-bs-target="#modal1">Confira essa experiência</button>
+                        <button type="button" class="btn btn-link" data-bs-toggle="modal" data-bs-target="modal1">Confira essa experiência</button>
                     </div>
                 </div>
             </div>
@@ -45,7 +45,16 @@
         <!--Projeto 2-->
         <div class="col-md-4">
             <div class="card">
-                <img src=""
+                <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.adorocinema.com%2Fseries%2Fserie-3463%2F&psig=AOvVaw1NXP-pc9KfP56wvmkErAxZ&ust=1747595159453000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPiBzt6Zq40DFQAAAAAdAAAAABAL" class="card-img-top" alt="imagem do projeto de biblioteca virtual">
+                <div class="card-body">
+                    <h5 class="card-title">Descobrindo novidades: Uma Aventura sobre animações</h5>
+                    <p class="card-text">
+                        Neste projeto, se encontra um objetivo baseado em aventuras, explorações com
+                        impactos e implicações sobre o tesouro (One Piece) entre os pirata e a marinha, obtendo os
+                        sentimentos dos fãs com o contesto da história.
+                    </p>
+                    <button type="button" class="btn btn-link" data-bs-toggle="modal" data-bs-target="modal2">Confira essa experiência</button>
+                </div>
             </div>
         </div>
      </main>
