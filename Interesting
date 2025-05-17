@@ -25,17 +25,27 @@
       <main class="container">
           <h2>Meus projetos</h2>
         <div class="row">
+            <!--Projeto 1-->
             <div class="col-md-4">
                 <div class="card" style="width: 18rem;">
                     <img src="img/projeto-1.png" class="card-img-top" alt="Imagem do projeto de biblioteca virtual"/>
                     <div class="card-body">
                         <h5 class="card-title">Minha Biblioteca: Uma Webpage Criativa</h5>
                         <p class="card-text">
-                            Este projeto é uma página web que apresenta uma lista dos meus jogos favoritos, incluindo informações sobre os criadores, datas de lançamento e links para abaixar ou comprar Steam. A página foi criada com CSS para uma visão agradável e uso de fontes externas do Google Fonts.
+                            Este projeto é uma página web que apresenta uma lista dos meus jogos
+                            favoritos, incluindo informações sobre os criadores, datas de lançamento e links para abaixar
+                            ou comprar Steam. A página foi criada com CSS para uma visão agradável e uso de fontes
+                            externas do Google Fonts.
                         </p>
-                        <button type="button" class="btn btn-link">Confira essa experiência</button>
+                        <button type="button" class="btn btn-link" data-bs-toggle="modal" data-bs-target="#modal1">Confira essa experiência</button>
                     </div>
                 </div>
+            </div>
+        </div>
+        <!--Projeto 2-->
+        <div class="col-md-4">
+            <div class="card">
+                <img src=""
             </div>
         </div>
      </main>
